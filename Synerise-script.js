@@ -1,4 +1,5 @@
 //Script compatible with: https://www.x-kom.pl/
+//Dev proof video: https://drive.google.com/file/d/14az-0b-9VoRvoMTFOu7EfUKDyG6cMucJ/view?usp=drive_link
 
 const SELECTORS = {
   name: ".parts__Title-sc-17c34dee-5",
